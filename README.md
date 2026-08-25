@@ -26,7 +26,7 @@ blocks, useful when you want to understand or reuse one piece in isolation.
 
 ## What is an NPU?
 
-A Neural Processing Unit (NPU) is a specialized hardware accelerator designed to efficiently execute machine learning and artificial intelligence tasks. Unlike general-purpose CPUs or GPUs, NPUs are optimized for operations commonly used in neural networks, such as matrix multiplications and convolutions. This makes them highly effective for real-time inference tasks, enabling faster processing with lower power consumption. For more technical details, refer to the [Rockchip RKNN Toolkit](https://github.com/airockchip/rknn-toolkit2).  Developers can also explore the [Rockchip RKNN Model Zoo](https://github.com/airockchip/rknn_model_zoo) for additional resources and tools.
+A Neural Processing Unit (NPU) is a specialized hardware accelerator designed to efficiently execute machine learning and artificial intelligence tasks. Unlike general-purpose CPUs or GPUs, NPUs are optimized for operations commonly used in neural networks, such as matrix multiplications and convolutions. This makes them highly effective for real-time inference tasks, enabling faster processing with lower power consumption. For more technical details, refer to the [Rockchip RKNN Toolkit](https://github.com/airockchip/rknn-toolkit2). Developers can also explore the [Rockchip RKNN Model Zoo](https://github.com/airockchip/rknn_model_zoo) for additional resources and tools.
 
 NPUs are particularly well-suited for edge computing scenarios, where AI models need to run locally on devices without relying on cloud-based resources. This ensures low latency, enhanced privacy, and reduced bandwidth usage.
 
