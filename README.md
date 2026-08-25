@@ -8,7 +8,7 @@ BrightSign Model Packages (BSMP) are delivered as BrightSign OS (BOS) "extension
 > [**Argus**](https://github.com/brightsign/argus-audience-measurement-extension) is BrightSign's
 > reference audience-measurement application: person counting, gaze detection, dwell time,
 > entry/exit events, and movement analytics, published over MQTT and Prometheus. This repository
-> is a single-purpose example of one piece of that system.
+> provides background on BrightSign NPU model packages and links to the individual extensions below.
 >
 > *Argus is the complete reference application; the extensions below are single-model building blocks.*
 
